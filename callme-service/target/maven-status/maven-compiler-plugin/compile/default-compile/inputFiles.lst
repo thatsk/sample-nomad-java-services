@@ -1,0 +1,2 @@
+/root/sample-nomad-java-services/callme-service/src/main/java/pl/piomin/services/caller/CallmeApplication.java
+/root/sample-nomad-java-services/callme-service/src/main/java/pl/piomin/services/caller/controller/CallmeController.java

@@ -1,0 +1,12 @@
+server:
+  port: ${NOMAD_HOST_PORT_http:8090}
+  
+spring:
+  application:
+    name: caller-service
+  cloud:
+    consul:
+      host: 127.0.0.1
+      port: 8500
+      discovery:
+        register: false
